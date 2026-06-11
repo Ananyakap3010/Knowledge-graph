@@ -1,0 +1,51 @@
+Entity_ID,Entity_Name,Entity_Type
+D001,Paracetamol,Drug
+D002,Ibuprofen,Drug
+D003,Aspirin,Drug
+D004,Metformin,Drug
+D005,Amoxicillin,Drug
+D006,Atorvastatin,Drug
+D007,Omeprazole,Drug
+D008,Azithromycin,Drug
+D009,Diclofenac,Drug
+D010,Cetirizine,Drug
+AE001,Mild Headache,Adverse_Event
+AE002,Mild Nausea,Adverse_Event
+AE003,Severe Rash,Adverse_Event
+AE004,Severe Fever,Adverse_Event
+AE005,Dizziness,Adverse_Event
+AE006,Vomiting,Adverse_Event
+AE007,Fatigue,Adverse_Event
+AE008,Insomnia,Adverse_Event
+AE009,Diarrhea,Adverse_Event
+AE010,Dry Mouth,Adverse_Event
+P001,PAT001,Patient
+P002,PAT002,Patient
+P003,PAT003,Patient
+P004,PAT004,Patient
+P005,PAT005,Patient
+P006,PAT006,Patient
+P007,PAT007,Patient
+P008,PAT008,Patient
+P009,PAT009,Patient
+P010,PAT010,Patient
+R001,RES001,Researcher
+R002,RES002,Researcher
+R003,RES003,Researcher
+R004,RES004,Researcher
+R005,RES005,Researcher
+R006,RES006,Researcher
+R007,RES007,Researcher
+R008,RES008,Researcher
+R009,RES009,Researcher
+R010,RES010,Researcher
+S001,PV_Study_A,Study
+S002,PV_Study_B,Study
+S003,PV_Study_C,Study
+S004,PV_Study_D,Study
+S005,PV_Study_E,Study
+H001,Apollo Hospital,Hospital
+H002,AIIMS Delhi,Hospital
+H003,Fortis Hospital,Hospital
+H004,Yashoda Hospital,Hospital
+H005,KIMS Hospital,Hospital
